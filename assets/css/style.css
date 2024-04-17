@@ -30,7 +30,7 @@
 
 @font-face {
     font-family: "CIRCLEBOLD";
-    src: url(../font/CirceRounded-AltBold.ttf);
+    src: url("../font/CirceRounded-AltBold.ttf");
 }
 
 @font-face {
