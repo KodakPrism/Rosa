@@ -25,22 +25,22 @@
 
 @font-face {
     font-family: "CIRCLELITE";
-    src: url(font/CirceRounded-ExtraLight.ttf);
+    src: url(../font/CirceRounded-ExtraLight.ttf);
 }
 
 @font-face {
     font-family: "CIRCLEBOLD";
-    src: url(font/CirceRounded-AltBold.ttf);
+    src: url(../font/CirceRounded-AltBold.ttf);
 }
 
 @font-face {
     font-family: "CIRCLEREGULAR";
-    src: url(font/CirceRounded-Regular.ttf);
+    src: url(../font/CirceRounded-Regular.ttf);
 }
 
 @font-face {
     font-family: "AVENTADOR";
-    src: url(font/Aventadorscript.ttf);
+    src: url(../font/Aventadorscript.ttf);
 }
 
 .header__a {
@@ -122,7 +122,7 @@ a {
 }
 
 body {
-    background: url(assets/img/body/Background.png);
+    background: url(../img/body/Background.png);
     width: 100%;
 }
 
@@ -131,7 +131,7 @@ body {
 /* Banner */
 
 .banner {
-    background: url(assets/img/banner/banner.png);
+    background: url(../img/banner/banner.png);
     width: 100%;
     height: 120vh;
     position: relative;
@@ -436,7 +436,7 @@ body {
 /* Gift dertificat */
 
 .sertificat {
-    background: url(assets/img/sertificat/envelope.png);
+    background: url(../img/sertificat/envelope.png);
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
@@ -1837,7 +1837,7 @@ color: #FFFFFF;
 }
 
 .paralax{
-    background: url(assets/img/onas/photo_2024-03-18_21-22-13\ 1.png);
+    background: url(../img/onas/photo_2024-03-18_21-22-13\ 1.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     perspective: 1px;
@@ -2022,7 +2022,7 @@ color: #FFFFFF;
     }
 
     .banner {
-        background: url(assets/img/banner/Banneer.png);
+        background: url(../img/banner/Banneer.png);
         background-repeat: no-repeat;
         background-position: top 300px center;
         height: 114vh;
