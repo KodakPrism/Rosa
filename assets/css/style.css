@@ -25,22 +25,22 @@
 
 @font-face {
     font-family: "CIRCLELITE";
-    src: url(assets/font/CirceRounded-ExtraLight.ttf);
+    src: url(font/CirceRounded-ExtraLight.ttf);
 }
 
 @font-face {
     font-family: "CIRCLEBOLD";
-    src: url(assets/font/CirceRounded-AltBold.ttf);
+    src: url(font/CirceRounded-AltBold.ttf);
 }
 
 @font-face {
     font-family: "CIRCLEREGULAR";
-    src: url(assets/font/CirceRounded-Regular.ttf);
+    src: url(font/CirceRounded-Regular.ttf);
 }
 
 @font-face {
     font-family: "AVENTADOR";
-    src: url(assets/font/Aventadorscript.ttf);
+    src: url(font/Aventadorscript.ttf);
 }
 
 .header__a {
